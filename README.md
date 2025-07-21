@@ -27,11 +27,11 @@
 
 <!-- ABOUT THE PROJECT -->
 
-![Pirate Crew](https://cdn.discordapp.com/attachments/955962175002910723/955962234889195540/piratepageee.png)
+![Pirate Crew](https://media.discordapp.net/attachments/955962175002910723/955962234889195540/piratepageee.png?ex=687f6d75&is=687e1bf5&hm=53315265cd8de4707e1bc8f7d234dc3334475fee91d36a264b10a12f98e8e76e&=&format=webp&quality=lossless&width=1737&height=864)
 
-![Create Pirate](https://cdn.discordapp.com/attachments/955962175002910723/955968832072187934/Pirate_MERN_CREATE.png)
+![Create Pirate](https://media.discordapp.net/attachments/955962175002910723/955968832072187934/Pirate_MERN_CREATE.png?ex=687f739a&is=687e221a&hm=5307bd07729aed82e1e3f9e3150b13b1a40156d8c8be288d27d94acccc31ff54&=&format=webp&quality=lossless&width=1762&height=864)
 
-![View Pirate](https://cdn.discordapp.com/attachments/955962175002910723/955969349242458162/Pirate_MERN_VIEW.png)
+![View Pirate](https://media.discordapp.net/attachments/955962175002910723/955969349242458162/Pirate_MERN_VIEW.png?ex=687f7415&is=687e2295&hm=09c19d3ed1b0f15572b3685916bb3a3645b00ef95bbf292ba79be9b3effeee5b&=&format=webp&quality=lossless&width=1756&height=864)
 
 <p align="center"> An organized storing system for individual pirates and their information. Choose between peg legs, eye patches, hook hands or all! More importantly let the world see your pirate with a simple link to your pirate's photo. And lastly, let's not forget a sly catch phrase to really make your pirate stand out.
  </p>
